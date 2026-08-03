@@ -1,0 +1,8 @@
+demo
+*.o
+*.dSYM/
+*.bmp
+big*.png
+sheet.png
+__pycache__/
+.DS_Store
